@@ -98,7 +98,7 @@ page GitHub : [Github](https://github.com/ShadowAwakening)
 >un ! devant le premier crochet :
 > ![]() 
 
-Voici une image de ![Zozor !](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+ ![Zozor !](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
 ### Barre de separation (hr)
 
