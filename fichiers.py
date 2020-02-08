@@ -73,4 +73,4 @@ with open("donnees", "rb") as fichier:
 
 # Remarque : Pour lire l'objet dans notre fichier, il faut appeler la
 # méthode load de notre depickler. Elle renvoie le premier objet qui a été
-# lu (s'il y en a plusieurs, il faut l'appeler plusieurs fois). !!!
+# lu (s'il y en a plusieurs, il faut l'appeler plusieurs fois). !!!  !!
